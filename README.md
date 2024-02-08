@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shabd Kumar.
 - 👀 I’m interested in Development Works, Codings.
-- 🌱 I’m currently learning JavaScript, AngularJS, NodeJS.
+- 🌱 I’m currently learning JavaScript, Angular.
 - 💞️ I’m looking to collaborate on JavaScript/Angular Pojects.
 - 📫 How to reach me ... https://www.linkedin.com/in/shabd-kumar-b83288112/
 
